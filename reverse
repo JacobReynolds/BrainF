@@ -1,0 +1,13 @@
+//Convert list size to literal ascii value
+> , > ++++ [< ---------- > -] < -------- 
+
+//Loop to input number
+//Decrement numbers left to enter by 1
+//Go back to end of list
+[>, [<]>-[>] <]
+
+//Jump to end of list
+>>[>]<
+
+//Print reversed list
+[.<]
