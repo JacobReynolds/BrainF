@@ -8,5 +8,5 @@ This program will take in 2 integers n,m where (0 <= n,m < = 3), and print the p
 #Reverse
 <p>In the input field enter your input one-by-one as [List/Word length][List/Word], (e.g. 5Hello, or 6123456).  Where (0 <= list/word length <= 9).</p>
 <p>This will take a list or word and reverse it.</p>
-<p>A much easier implementation is "+[>,]<-[+.<-]", but this assumes the user enters all input at once.
-<br>This program allows the user to enter the input one at a time.</p>
+<p>A much easier implementation is "+[>,]<-[+.<-]", but this assumes the user enters all inputs at once.
+<br>This program allows the user to enter the inputs one at a time.</p>
