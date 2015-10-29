@@ -1,5 +1,5 @@
 # BrainF
-Scripts written using the BrainF*** programming language.<br>
+Scripts written using the BrainFuck programming language.<br>
 These scripts can be compiled and viewed <a href="http://fatiherikli.github.io/brainfuck-visualizer/" target="_blank">here</a>.
 
 #Multiply2
